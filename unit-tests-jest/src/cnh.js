@@ -1,6 +1,4 @@
-const obterCnh = (idade) => {
-  return idade >= 18;
-};
+const obterCnh = (idade) => idade >= 18;
 
 module.exports = {
   obterCnh,
